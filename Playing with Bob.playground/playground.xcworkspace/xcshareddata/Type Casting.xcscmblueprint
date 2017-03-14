@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "788E58B38BA3D0199C0A9055C5872FB8B307A72C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "C398656984AD1BEB0DB410C33CD02DA466D7744B" : 9223372036854775807,
+    "788E58B38BA3D0199C0A9055C5872FB8B307A72C" : 9223372036854775807
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "2B8EBDC1-3AA5-43E4-9FF4-3DEC01361BE2",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "C398656984AD1BEB0DB410C33CD02DA466D7744B" : "",
+    "788E58B38BA3D0199C0A9055C5872FB8B307A72C" : "Playground\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Type Casting",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Type Casting.playground",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "github.com:epireve\/Playground.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "788E58B38BA3D0199C0A9055C5872FB8B307A72C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/epireve\/otl.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "C398656984AD1BEB0DB410C33CD02DA466D7744B"
+    }
+  ]
+}
